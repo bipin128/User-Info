@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9f6021c-101c-469e-8111-5f59ba49dee8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="user-info-system" />
+  </component>
+  <component name="ProjectId" id="1gPbYrpZmraOOqdHuI2ndBIwTSD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bipin.vastika.UserTest" />
+      <module name="user-info-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bipin.vastika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9f6021c-101c-469e-8111-5f59ba49dee8" name="Default Changelist" comment="" />
+      <created>1598019225440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598019225440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1598019691748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598019691748" />
+    <state x="462" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598019561701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1598019561701" />
+    <state x="549" y="123" key="FileChooserDialogImpl" timestamp="1598020349553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="123" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598020349553" />
+    <state width="1493" height="446" key="GridCell.Tab.0.bottom" timestamp="1598020304811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598020304811" />
+    <state width="1493" height="446" key="GridCell.Tab.0.center" timestamp="1598020304809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598020304809" />
+    <state width="1493" height="446" key="GridCell.Tab.0.left" timestamp="1598020304809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598020304809" />
+    <state width="1493" height="446" key="GridCell.Tab.0.right" timestamp="1598020304809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="446" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598020304809" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1598020330439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598020330439" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598020260057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598020260057" />
+  </component>
+</project>
